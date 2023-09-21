@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://beoqwrv1bb24l"]
+
+[ext_resource type="Script" path="res://CityGridGenerator.gd" id="1_1pcmx"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_1pcmx")
